@@ -1,4 +1,4 @@
-"""recoface URL Configuration
+"""bare URL Configuration
 
 The `urlpatterns` list routes URLs to views. For more information please see:
     https://docs.djangoproject.com/en/3.2/topics/http/urls/
@@ -15,7 +15,11 @@ Including another URLconf
 """
 from django.contrib import admin
 from django.urls import path
+from django.views.decorators.csrf import csrf_exempt
+from graphene_file_upload.django import FileUploadGraphQLView
+
 
 urlpatterns = [
     path('admin/', admin.site.urls),
+    path("graphql", csrf_exempt(FileUploadGraphQLView.as_view(graphiql=True))),
 ]

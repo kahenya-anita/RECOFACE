@@ -1,0 +1,12 @@
+{
+    "type": "service_account",
+    "project_id": "skilled-clover-313207",
+    "private_key_id": "7f8b55da4bf8f34ba8661c315031f4a2ea38d86e",
+    "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQDBAEvFbHWVi+jG\nuVfkfMix7WKhvtO1X0SuMpGzsqiohKS7D0Txs72GMIDUDYzeDdNUSkDWnTjNKc0q\nHdaL6wk7+Ne/pzpxXQvCPFeraJaXzq10GwmEVIEyL0GdFA1kWJyjIzVbtTgnpJfr\nuHTEeHGE3dwnH6vF8MwceOkzcTI3W5htbn+M3TgtjumUnsMh7XsTQ7z8EtGi0I09\nDQjXck+wPH+PQtstSbxvuoCTUzQU8SZ9hPx0CkXShPznsMbFUJfAuSidDRkWFA09\n4nzjoQ+gU3vOjKjSDCsAHckSEqSDDwWuXkA4nyg9IllkaibgsHIyXtoN5Bre5ULp\nO8iYBrSxAgMBAAECggEADQqklBwem/Le0WLf1hA6jY9hbVWUP7rGzNCc+NwXOn/w\nE7XV7lE7etBXPD0IKk8b2yPDWt034+ExvGlUwJKqxpMrnQdDUzq62y6xq+L+3hY4\nsVJMY9VD/6yizeb3erLkLr/n0KEfwMoF/Ac0WLxcy2IkiL5CoLcDS989vtykzIm1\nUDooZP5KcMPTtEDeci6Y2OzvYljQ2uQOUa+98kvtNL3oTMQo89dhUFPc/ZWsKAJp\nDJXKjzXPq9RoVBYWS6cDMk1bdlmgA69z6/qypwnLLS/RkSJBIrbebEU7NIBrugca\n66ZYyTRnpp2KrjzPlB5CTG3AcaxMudAcFda7YBPlKwKBgQDxVUZD+az9I7XyN8wy\nO63bMyjB5+gMlQwEVqNCz3dRd3RRtYapgpFXi7ZzIEcs75eDKnv9gq5tn0eibfuf\n3O5QLGqye+ItV9087okflGUqQZw49ZUOM9rodBon44sCHBEuAYzcAV/2X2oQCd/4\nN4amIRqEO2uufzMXgy8QayWjowKBgQDMuw9eVl1EMp1799QsT8X+/wQZnRnoPxyI\nzKCna4DRJrXo2O2bT069/R92uDuls3c7Yw6YRt0FoOyz9iv7XW0RxXfzrNqpxFCP\nimva8LFvVBRfyGpsOrSl8E0TR7KZ2YvvnxolUYJgFPj8G1tXCxkurQ4PvCvrzb3p\nCepPyULrmwKBgEshxC1XZp6sZnGRI3YkFD0g0TiE7T41jLcxDcS3+CqZqNHjVJgj\nOQJrUZLH4sC/mojQSiejbpBcPR35ZZPgYST+nv0QClsZdpwImxIEzfX41Rz6f7wb\nMrSZqKbwdQ9kE4kiHGtF1k1KaSezG1IYX0gLGElAgoahvRM92QIgiWhHAoGACxox\n0SnZ0PL1u11LMkP5NsTZkhIE76VMhNaj97BKwgzZXJE3AW8hlAgABs4i3e+Hjb7n\ncbaWEdISRAgbhnwgiBAvWxWKnh45SC93fd4DoUfr+u3BZ7EfTshjRaJjuxgjEJGO\nN2veKBu7DODm6Sd+7BsSYiQQNa9olxSkkkMVz/UCgYEAizk7HMQ91zgw36xwqVLc\n/iCCfSH1h2NRAaKi+kxHhSfPzU14ZFM40VePi8tFfssSYypDVzJvv/9GMk0ZP9TG\nkvU94yjhl69JPTnAtQittvyOBjBLqGC3xAd+Dvs6Lfj5cC2QRGQSBwU0sqGRQ95z\nxKPviW6Ds6BjynuE3Ipwv8I=\n-----END PRIVATE KEY-----\n",
+    "client_email": "novak254@skilled-clover-313207.iam.gserviceaccount.com",
+    "client_id": "105655606774599610522",
+    "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+    "token_uri": "https://oauth2.googleapis.com/token",
+    "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+    "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/novak254%40skilled-clover-313207.iam.gserviceaccount.com"
+  }

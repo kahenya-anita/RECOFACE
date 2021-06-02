@@ -1,0 +1,24 @@
+[tool.poetry]
+name = "anita"
+version = "0.1.0"
+description = ""
+authors = ["anita <anitakahenya1@gmail.com>"]
+
+[tool.poetry.dependencies]
+python = "3.9.1"
+Django = "^3.2.3"
+djangorestframework = "^3.12.4"
+graphene-django = "^2.15.0"
+graphene-file-upload = "^1.3.0"
+google-cloud-vision = "^2.3.1"
+Pillow = "^8.2.0"
+cloudinary = "^1.25.0"
+gunicorn = "^20.1.0"
+django-cors-headers = "^3.7.0"
+
+[tool.poetry.dev-dependencies]
+autopep8 = "^1.5.7"
+
+[build-system]
+requires = ["poetry-core>=1.0.0"]
+build-backend = "poetry.core.masonry.api"

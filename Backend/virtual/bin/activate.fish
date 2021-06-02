@@ -29,7 +29,7 @@ end
 # unset irrelevant variables
 deactivate nondestructive
 
-set -gx VIRTUAL_ENV "/home/toshiba/Documents/RECOFACE/virtual"
+set -gx VIRTUAL_ENV "/home/toshiba/Documents/RECOFACE/Backend/virtual"
 
 set -gx _OLD_VIRTUAL_PATH $PATH
 set -gx PATH "$VIRTUAL_ENV/bin" $PATH
